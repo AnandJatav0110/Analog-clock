@@ -1,0 +1,18 @@
+// hour hand
+12 hour = 360deg
+1hour = 360/12 = 30 deg
+h hour= (30h + m/2 )deg
+
+1hour = 60min = 30
+1min = 30/60 = 1/2 deg
+m min  = m/2 deg 
+
+//minute hand
+60min = 360deg
+1min = 360/60 = 6deg
+m min = 6m deg
+
+//second hand
+60sec = 360deg 
+1sec = 360/60 = 6deg
+s secs = 6s deg
